@@ -1,4 +1,4 @@
-# Hi, I'm Dipali Patil! 👋
+<img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/bf9d948d-c597-4e99-a749-cad6e5f45a39" /># Hi, I'm Dipali Patil! 👋
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** with expertise in:
@@ -8,6 +8,7 @@ I'm a passionate **Software Developer** with expertise in:
 - HTML, CSS, and Bootstrap 🎨
 - JavaScript ⚡️
 - React ⚛️
+- Java ☕
 
 I love solving problems, building responsive web applications, and contributing to open-source projects.
 
